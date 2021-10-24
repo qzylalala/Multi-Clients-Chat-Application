@@ -2,6 +2,15 @@
 
 > Build a chat system using both Go for Backend and React for Frontend.And learn to dockerize the backend
 
+## Usage
+
+```markdown
+backend:
+	go run main.go
+fronted:
+	yarn start
+```
+
 ## Author
 
 👤 **qzylalala**
