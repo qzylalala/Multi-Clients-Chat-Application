@@ -8,7 +8,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/TutorialEdge/realtime-chat-go-react/pkg/websocket"
+	"github.com/qzylalala/AChat-application/pkg/websocket"
 	"net/http"
 )
 

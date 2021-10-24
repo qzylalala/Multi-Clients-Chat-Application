@@ -1,4 +1,4 @@
-module github.com/TutorialEdge/realtime-chat-go-react
+module github.com/qzylalala/AChat-application
 
 go 1.15
 
