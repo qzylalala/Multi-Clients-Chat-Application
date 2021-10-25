@@ -2,13 +2,22 @@
 
 > Build a chat system using both Go for Backend and React for Frontend.And learn to dockerize the backend
 
+## Requirments
+
+```markdown
+Go >= 1.15
+Node.js >= v14.17.0
+```
+
+If you choose docker, only node.js is needed
+
 ## Usage
 
 ```markdown
 backend:
-	go run main.go
+  go run main.go
 fronted:
-	yarn start
+  yarn start
 ```
 
 Open up `http://localhost:3000` in a couple of browser tabs to check!
