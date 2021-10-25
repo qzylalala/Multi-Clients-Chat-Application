@@ -16,7 +16,7 @@ Open up `http://localhost:3000` in a couple of browser tabs to check!
 ## Docker
 
 ```markdown
-docker pull qzylalala/backend
+docker pull qzylalala/backend:latest
 docker run -it -p 8080:8080 qzylalala/backend
 ./AChat-application
 ```
