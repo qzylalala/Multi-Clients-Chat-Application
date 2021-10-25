@@ -1,4 +1,4 @@
-# Welcome to Real-time Chat Application 👋
+# Welcome to Multi-CLients Chat Application 👋
 
 > Build a chat system using both Go for Backend and React for Frontend.And learn to dockerize the backend
 
