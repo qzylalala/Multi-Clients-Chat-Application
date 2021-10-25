@@ -11,6 +11,8 @@ fronted:
 	yarn start
 ```
 
+Open up `http://localhost:3000` in a couple of browser tabs to check!
+
 ## Docker
 
 ```markdown

@@ -10,14 +10,12 @@ import (
 	"fmt"
 	"github.com/gorilla/websocket"
 	"log"
-	"sync"
 )
 
 type Client struct {
 	ID   string
 	Conn *websocket.Conn
 	Pool *Pool
-	mu sync.Mutex
 }
 
 type Message struct {
