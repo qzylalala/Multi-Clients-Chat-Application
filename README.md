@@ -15,6 +15,7 @@ fronted:
 
 ```markdown
 docker pull qzylalala/backend
+docker run -it -p 8080:8080 qzylalala/backend
 ./AChat-application
 ```
 
